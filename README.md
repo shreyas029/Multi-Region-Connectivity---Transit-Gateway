@@ -1,7 +1,11 @@
 # Multi-Region-Connectivity-Transit-Gateway
 
 ## Description
+
+
 ## Architecture
+
+
 ## Creating VPCs
 1. Log into the AWS Console and serach for 'VPC'.
 2. Create a VPC with the following setting.
