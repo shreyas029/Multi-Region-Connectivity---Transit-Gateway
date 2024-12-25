@@ -1,4 +1,4 @@
-# Multi-Region-Connectivity-Transit-Gateway
+# Multi Region Connectivity Transit-Gateway
 
 ## Description
 
