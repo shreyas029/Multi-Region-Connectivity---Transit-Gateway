@@ -1,5 +1,4 @@
 # Multi Region Connectivity Transit-Gateway
-
 ## Description
 ## Architecture
 ## Creating VPCs
